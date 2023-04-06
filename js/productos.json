@@ -11,7 +11,7 @@
     },
     {
         "id": "cardigan-02",
-        "titulo": "Cardigan 02",
+        "titulo": "Cárdigan 02",
         "imagen": "./img/cardigans/02.jpg",
         "categoria": {
             "nombre": "Cárdigans",
@@ -21,7 +21,7 @@
     },
     {
         "id": "cardigan-03",
-        "titulo": "Cardigan 03",
+        "titulo": "Cárdigan 03",
         "imagen": "./img/cardigans/03.jpg",
         "categoria": {
             "nombre": "Cárdigans",
@@ -31,7 +31,7 @@
     },
     {
         "id": "cardigan-04",
-        "titulo": "Cardigan 04",
+        "titulo": "Cárdigan 04",
         "imagen": "./img/cardigans/04.jpg",
         "categoria": {
             "nombre": "Cárdigans",
@@ -41,7 +41,7 @@
     },
     {
         "id": "cardigan-05",
-        "titulo": "Cardigan 05",
+        "titulo": "Cárdigan 05",
         "imagen": "./img/cardigans/05.jpg",
         "categoria": {
             "nombre": "Cárdigans",
