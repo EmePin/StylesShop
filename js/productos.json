@@ -1,0 +1,182 @@
+[
+    {
+        "id": "cardigan-01",
+        "titulo": "Cárdigan 01",
+        "imagen": "./img/cardigans/01.jpg",
+        "categoria": {
+            "nombre": "Cárdigans",
+            "id": "cárdigans"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cardigan-02",
+        "titulo": "Cardigan 02",
+        "imagen": "./img/cardigans/02.jpg",
+        "categoria": {
+            "nombre": "Cárdigans",
+            "id": "cárdigans"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cardigan-03",
+        "titulo": "Cardigan 03",
+        "imagen": "./img/cardigans/03.jpg",
+        "categoria": {
+            "nombre": "Cárdigans",
+            "id": "cárdigans"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cardigan-04",
+        "titulo": "Cardigan 04",
+        "imagen": "./img/cardigans/04.jpg",
+        "categoria": {
+            "nombre": "Cárdigans",
+            "id": "cárdigans"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cardigan-05",
+        "titulo": "Cardigan 05",
+        "imagen": "./img/cardigans/05.jpg",
+        "categoria": {
+            "nombre": "Cárdigans",
+            "id": "cárdigans"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "blusa-01",
+        "titulo": "Blusa 01",
+        "imagen": "./img/blusas/01.jpg",
+        "categoria": {
+            "nombre": "Blusas",
+            "id": "blusas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "blusa-02",
+        "titulo": "Blusa 02",
+        "imagen": "./img/blusas/02.jpg",
+        "categoria": {
+            "nombre": "Blusas",
+            "id": "blusas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "blusa-03",
+        "titulo": "Blusa 03",
+        "imagen": "./img/blusas/03.jpg",
+        "categoria": {
+            "nombre": "Blusas",
+            "id": "blusas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "blusa-04",
+        "titulo": "Blusa 04",
+        "imagen": "./img/blusas/04.jpg",
+        "categoria": {
+            "nombre": "Blusas",
+            "id": "blusas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "blusa-05",
+        "titulo": "Blusa 05",
+        "imagen": "./img/blusas/05.jpg",
+        "categoria": {
+            "nombre": "Blusas",
+            "id": "blusas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "blusa-06",
+        "titulo": "Blusa 06",
+        "imagen": "./img/blusas/06.jpg",
+        "categoria": {
+            "nombre": "Blusas",
+            "id": "blusas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "blusa-07",
+        "titulo": "Blusa 07",
+        "imagen": "./img/blusas/07.jpg",
+        "categoria": {
+            "nombre": "Blusas",
+            "id": "blusas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "blusa-08",
+        "titulo": "Blusa 08",
+        "imagen": "./img/blusas/08.jpg",
+        "categoria": {
+            "nombre": "Blusas",
+            "id": "blusas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "camisa-01",
+        "titulo": "Camisa 01",
+        "imagen": "./img/camisas/01.jpg",
+        "categoria": {
+            "nombre": "Camisas",
+            "id": "camisas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "camisa-02",
+        "titulo": "Camisa 02",
+        "imagen": "./img/camisas/02.jpg",
+        "categoria": {
+            "nombre": "Camisas",
+            "id": "camisas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "camisa-03",
+        "titulo": "Camisa 03",
+        "imagen": "./img/camisas/03.jpg",
+        "categoria": {
+            "nombre": "Camisas",
+            "id": "camisas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "camisa-04",
+        "titulo": "Camisa 04",
+        "imagen": "./img/camisas/04.jpg",
+        "categoria": {
+            "nombre": "Camisas",
+            "id": "camisas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "camisa-05",
+        "titulo": "Camisa 05",
+        "imagen": "./img/camisas/05.jpg",
+        "categoria": {
+            "nombre": "Camisas",
+            "id": "camisas"
+        },
+        "precio": 1000
+    }
+]
