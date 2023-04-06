@@ -342,6 +342,7 @@ main {
         transform: translateX(0);
         opacity: 1;
         visibility: visible;
+        z-index: 1000;
     }
 
     .boton-menu.active::before,
