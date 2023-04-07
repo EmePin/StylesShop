@@ -95,7 +95,7 @@ Para obtener una copia local de este repositorio se puede clonar o descargar.
 
 ### Prerequisitos
 
-1. Contar con un navegador para la lectura de index.html
+1. Abrirlo en vsc con la extensión LiveServer
 
 ### Instalación
 
