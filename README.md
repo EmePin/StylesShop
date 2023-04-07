@@ -58,14 +58,14 @@
 
 ## Acerca del proyecto
 
- <a href="https://github.com/EmePin/StylesShop">
-    <img src="img/readme/screenshot.png" alt="screenshot" >
-  </a>
-
-<br>
-<br>
-
 Proyecto de un sitio web para un comercio con localstorage que implementa pagos con paypal desarrollado para la materia de Tecnologías Emergentes.
+<br>
+<br>
+<a href="https://github.com/EmePin/StylesShop">
+<img src="img/readme/screenshot.png" alt="screenshot" >
+</a>
+<br>
+<br>
 
 <a href="https://emepin.github.io/StylesShop/index.html">Ver demo del sitio web</a>
 <br>
@@ -114,11 +114,13 @@ Para obtener una copia local de este repositorio se puede clonar o descargar.
 <!-- USAGE EXAMPLES -->
 
 ## Uso
+
 A continuación se muestra el funcionamiento correcto del sitio web y del pago por medio de paypal de los artículos del carrito alojados con localstorage.
 <br>
-  <a href="https://youtu.be/bAouFetu6hI">
-      ¡Ver video de funcionamiento!
-  </a> 
+<br>
+<a href="https://youtu.be/bAouFetu6hI">
+¡Ver video de funcionamiento!
+</a>
 <br>
 <br>
 
