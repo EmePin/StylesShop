@@ -114,9 +114,10 @@ Para obtener una copia local de este repositorio se puede clonar o descargar.
 <!-- USAGE EXAMPLES -->
 
 ## Uso
-
+A continuación se muestra el funcionamiento correcto del sitio web y del pago por medio de paypal de los artículos del carrito alojados con localstorage.
+<br>
   <a href="https://youtu.be/bAouFetu6hI">
-      <button>¡Ver video de funcionamiento!</button>
+      ¡Ver video de funcionamiento!
   </a> 
 <br>
 <br>
