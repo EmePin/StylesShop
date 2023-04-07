@@ -69,6 +69,7 @@
 Proyecto de un sitio web para un comercio con localstorage que implementa pagos con paypal desarrollado para la materia de Tecnologías Emergentes.
 
 <a href="https://emepin.github.io/StylesShop/index.html">Ver demo del sitio web</a>
+<br>
 <a href="https://github.com/EmePin/StylesShop/archive/refs/heads/main.zip">Descargar código fuente</a>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -113,8 +114,8 @@ Para obtener una copia local de este repositorio se puede clonar o descargar.
 <!-- USAGE EXAMPLES -->
 
 ## Uso
-
-
+ <img src="https://media.giphy.com/media/0fz5uNPHnoVHLEhAW2/giphy.gif" width="880" height="107" />
+ 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Licencia
@@ -131,6 +132,7 @@ Distribuído bajo la licencia MIT. Leer `LICENSE.txt` para más información.
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/eme_aim) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jahda%c3%ad-p-93aa091b5/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=flat-square&logo=TikTok&logoColor=white)](https://tiktok.com/@@emebrou) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=flat-square&logo=Twitch&logoColor=white)](https://twitch.tv/eme_aim) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/@aimeepineda8400) 
 
 Project Link: [StylesShop.git](https://github.com/EmePin/StylesShop.git)
+<br>
 Mi perfil de github Link: [EmePin](https://github.com/EmePin)
 
 
