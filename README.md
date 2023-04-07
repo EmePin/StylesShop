@@ -11,7 +11,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/EmePin/StylesShop">
-    <img src="img/readme/logo3.png" alt="Logo" width="100" height="100">
+    <img src="img/readme/logo2.png" alt="Logo" width="100" height="100">
   </a>
 
   <h3 align="center">StyleShop-README</h3>
@@ -26,7 +26,9 @@
     ·
     <a href="https://github.com/EmePin/StylesShop/issues">Reporta un Bug</a>
     ·
-    <a href="https://github.com/EmePin/StylesShop/issues">Solicitar alguna función extra</a>
+    <a href="https://github.com/EmePin/StylesShop/issues">Solicitar cambios</a>
+    ·
+    <a href="https://github.com/EmePin/StylesShop/archive/refs/heads/main.zip">Descargar</a>
   </p>
 </div>
 
@@ -66,6 +68,8 @@
 
 Proyecto de un sitio web para un comercio con localstorage que implementa pagos con paypal desarrollado para la materia de Tecnologías Emergentes.
 
+<a href="https://emepin.github.io/StylesShop/index.html">Ver demo del sitio web</a>
+<a href="https://github.com/EmePin/StylesShop/archive/refs/heads/main.zip">Descargar código fuente</a>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Construído con
@@ -153,16 +157,16 @@ Recursos que me resultaron útiles y a los que me gustaría dar crédito.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/EmePin/StylesShop.svg?style=for-the-badge
 [contributors-url]: https://github.com/EmePin/StylesShop/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/EmePin/StylesShop.svg?style=for-the-badge
 [forks-url]: https://github.com/EmePin/StylesShop/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/EmePin/StylesShop.svg?style=for-the-badge
 [stars-url]: https://github.com/EmePin/StylesShop/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/EmePin/StylesShop.svg?style=for-the-badge
 [issues-url]: https://github.com/EmePin/StylesShop/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/EmePin/StylesShop/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/EmePin/StylesShop.svg?style=for-the-badge
+[license-url]: https://github.com/EmePin/StylesShop/blob/main/LICENSE.txt
 
 
 
