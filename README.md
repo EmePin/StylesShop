@@ -56,7 +56,6 @@
     <li><a href="#créditos">Créditos</a></li>
   </ol>
 
-
 ## Acerca del proyecto
 
  <a href="https://github.com/EmePin/StylesShop">
@@ -71,6 +70,7 @@ Proyecto de un sitio web para un comercio con localstorage que implementa pagos 
 <a href="https://emepin.github.io/StylesShop/index.html">Ver demo del sitio web</a>
 <br>
 <a href="https://github.com/EmePin/StylesShop/archive/refs/heads/main.zip">Descargar código fuente</a>
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Construído con
@@ -114,11 +114,39 @@ Para obtener una copia local de este repositorio se puede clonar o descargar.
 <!-- USAGE EXAMPLES -->
 
 ## Uso
- <img src="https://media.giphy.com/media/0fz5uNPHnoVHLEhAW2/giphy.gif" width="880" height="107" />
- 
+
+  <a href="https://youtu.be/bAouFetu6hI">
+      <button>¡Ver video de funcionamiento!</button>
+  </a> 
+<br>
+<br>
+
+ <a href="https://github.com/EmePin/StylesShop">
+    <img src="img/readme/screenshot.png" alt="screenshot" >
+  </a>
+<a href="https://github.com/EmePin/StylesShop">
+    <img src="img/readme/agregar.png" alt="screenshot">
+  </a>
+  <a href="https://github.com/EmePin/StylesShop">
+    <img src="img/readme/categorias.png" alt="screenshot">
+  </a>
+  <a href="https://github.com/EmePin/StylesShop">
+    <img src="img/readme/carrito.png" alt="screenshot">
+  </a>
+  <a href="https://github.com/EmePin/StylesShop">
+    <img src="img/readme/comprar.png" alt="screenshot">
+  </a>
+  <a href="https://github.com/EmePin/StylesShop">
+    <img src="img/readme/pago.png" alt="screenshot">
+  </a>
+  <a href="https://github.com/EmePin/StylesShop">
+    <img src="img/readme/compra_realizada.png" alt="screenshot">
+  </a>
+  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Licencia
+
 ![MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 
 Distribuído bajo la licencia MIT. Leer `LICENSE.txt` para más información.
@@ -129,12 +157,11 @@ Distribuído bajo la licencia MIT. Leer `LICENSE.txt` para más información.
 
 ## Contacto
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/eme_aim) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jahda%c3%ad-p-93aa091b5/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=flat-square&logo=TikTok&logoColor=white)](https://tiktok.com/@@emebrou) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=flat-square&logo=Twitch&logoColor=white)](https://twitch.tv/eme_aim) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/@aimeepineda8400) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/eme_aim) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jahda%c3%ad-p-93aa091b5/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=flat-square&logo=TikTok&logoColor=white)](https://tiktok.com/@@emebrou) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=flat-square&logo=Twitch&logoColor=white)](https://twitch.tv/eme_aim) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/@aimeepineda8400)
 
 Project Link: [StylesShop.git](https://github.com/EmePin/StylesShop.git)
 <br>
 Mi perfil de github Link: [EmePin](https://github.com/EmePin)
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -142,19 +169,18 @@ Mi perfil de github Link: [EmePin](https://github.com/EmePin)
 
 Recursos que me resultaron útiles y a los que me gustaría dar crédito.
 
-* [Carpi Coder](https://www.youtube.com/watch?v=RiB4mV3VnRY&t=1974s&ab_channel=CarpiCoder)
-* [Bartosz Maryniaczyk](https://unblast.com/free-e-commerce-dashboard-ui-template-fig/t)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Imágenes de la ropa](https://www.pinterest.com.mx/meghan200303/)
-* [Paleta de colores](https://palette.site/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font google](https://fonts.google.com/)
-* [Flavicons](https://flavicon.com)
-* [boostrap icons](https://icons.getbootstrap.com/)
+-   [Carpi Coder](https://www.youtube.com/watch?v=RiB4mV3VnRY&t=1974s&ab_channel=CarpiCoder)
+-   [Bartosz Maryniaczyk](https://unblast.com/free-e-commerce-dashboard-ui-template-fig/t)
+-   [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+-   [Imágenes de la ropa](https://www.pinterest.com.mx/meghan200303/)
+-   [Paleta de colores](https://palette.site/)
+-   [Img Shields](https://shields.io)
+-   [GitHub Pages](https://pages.github.com)
+-   [Font google](https://fonts.google.com/)
+-   [Flavicons](https://flavicon.com)
+-   [boostrap icons](https://icons.getbootstrap.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -169,15 +195,10 @@ Recursos que me resultaron útiles y a los que me gustaría dar crédito.
 [issues-url]: https://github.com/EmePin/StylesShop/issues
 [license-shield]: https://img.shields.io/github/license/EmePin/StylesShop.svg?style=for-the-badge
 [license-url]: https://github.com/EmePin/StylesShop/blob/main/LICENSE.txt
-
-
-
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/jahda%C3%AD-p-93aa091b5/
 [product-screenshot]: images/screenshot.png
-
 [javascript]: https://developer.mozilla.org/es/docs/Web/JavaScript
-
 [bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white
 [bootstrap-url]: https://getbootstrap.com
 [jquery.com]: https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white
