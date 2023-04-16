@@ -215,7 +215,7 @@ Use this space to list resources you find helpful and would like to give credit 
 
 -   [Choose an Open Source License](https://choosealicense.com)
 -   [Img Shields](https://github.com/alexandresanlim/Badges4-README.md-Profile#-artificial-intelligence-)
--   [StylesShop](https://github.com/othneildrew/StylesShop)
+-   [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 -   [Flavicon](https://www.flaticon.es/)
 -   [Google Fonts](https://fonts.google.com/)
 -   [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
